@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateAnyone-colab/blob/main/AnimateAnyone_colab.ipynb) | AnimateAnyone_colab
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AnimateAnyone-colab/blob/main/AnimateAnyone_colab.ipynb) | AnimateAnyone_colab -->
 
 ## Tutorial
 
